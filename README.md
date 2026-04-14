@@ -44,12 +44,16 @@ https://animaedu-my.sharepoint.com/:u:/r/personal/1252329161_ulife_com_br/Docume
   <img src="img_googleStore/1_ChannelGrouping.png" width="40%" />
 </p>
 
+---
+
 🔴 **Insight importante**
 👉 Usuários de *Desktop* geram mais receita que Mobile
 * 📌2 (aqui a imagem do gráfico de device)
 <p align="center">
   <img src="img_googleStore/2_Device.png" width="40%" />
 </p>
+
+---
 
 🔴 **Insight importante**
 👉 A taxa de conversão é relativamente baixa (~1,34%)
@@ -58,6 +62,8 @@ https://animaedu-my.sharepoint.com/:u:/r/personal/1252329161_ulife_com_br/Docume
 <p align="center">
   <img src="img_googleStore/3_Funil_de_vendas.png" width="40%" />
 </p>
+
+---
 
 🔴 **Insight importante**
 👉 Algumas fontes trazem tráfego, mas não geram receita
