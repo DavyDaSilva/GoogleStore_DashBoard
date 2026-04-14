@@ -8,6 +8,7 @@ O foco é entender o comportamento dos usuários, as fontes de tráfego e a perf
 
 Link do projeto:
 https://animaedu-my.sharepoint.com/:u:/r/personal/1252329161_ulife_com_br/Documents/%C3%81rea%20de%20Trabalho/GoogleStore_Dashbord_Analyses.pbix?csf=1&web=1&e=chBIpC
+
 ---
 
 ## KPIs (Indicadores Principais)
