@@ -35,21 +35,33 @@ https://animaedu-my.sharepoint.com/:u:/r/personal/1252329161_ulife_com_br/Docume
 
 🔴 **Insight importante**
 👉 O canal *Referral* gera a maior parte da receita
-📌 (inserir imagem do treemap)
+* 📌1 (aqui a imagem do treemap)
+<p align="center">
+  <img src="img_googleStore/1_ChannelGrouping.png" width="40%" />
+</p>
 
 🔴 **Insight importante**
 👉 Usuários de *Desktop* geram mais receita que Mobile
-📌 (inserir imagem do gráfico de device)
+* 📌2 (aqui a imagem do gráfico de device)
+<p align="center">
+  <img src="img_googleStore/2_Device.png" width="40%" />
+</p>
 
 🔴 **Insight importante**
 👉 A taxa de conversão é relativamente baixa (~1,34%)
 → Indica oportunidade de otimização do funil
-📌 (inserir imagem do funil)
+* 📌3 (aqui a imagem do funil)
+<p align="center">
+  <img src="img_googleStore/3_Funil_de_vendas.png" width="40%" />
+</p>
 
 🔴 **Insight importante**
 👉 Algumas fontes trazem tráfego, mas não geram receita
 → Possível problema na qualidade do tráfego
-📌 (inserir imagem do gráfico de fontes)
+* 📌4 (aqui a imagem do gráfico de fontes)
+<p align="center">
+  <img src="img_googleStore/4_source.png" width="40%" />
+</p>
 
 ---
 
