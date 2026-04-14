@@ -2,6 +2,10 @@
 
 ## Descrição do Projeto
 
+<p align="Left">
+  <img src="img_googleStore/google_store_logo.png" width="12%" />
+</p>
+
 Este projeto consiste na análise de dados do **Google Analytics Sample Dataset**, com o objetivo de construir um dashboard interativo no Power BI.
 
 O foco é entender o comportamento dos usuários, as fontes de tráfego e a performance comercial (receita e conversão).
