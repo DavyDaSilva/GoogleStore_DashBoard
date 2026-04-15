@@ -74,6 +74,14 @@ Link do projeto:
 
 ---
 
+## Dashboard Completo
+📌5 (aqui a imagem do meu DashBoard)
+<p align="center">
+  <img src="img_googleStore/Full_Dashboard_GoogleStore.png" width="100%" />
+</p>
+
+---
+
 ## 🛠️ Etapas do Projeto
 
 1. Importação dos dados do Google Analytics
